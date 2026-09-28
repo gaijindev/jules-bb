@@ -9,6 +9,6 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "mime": "^4.0.4"
+    "mime": "git+https://github.com/gaijindev/jules-bb.git#m4-pkg"
   }
 }
