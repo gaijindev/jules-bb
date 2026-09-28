@@ -1,2 +1,9 @@
-# sample-gallery-app
-Small demo app that maps sample file names to MIME types. Contributions welcome - please keep changes minimal and run `npm ci && npm test` before opening a PR.
+# jules-bb
+
+Test fixture monorepo.
+
+## Setup
+Before running anything, execute `node scripts/repo-check.js` to verify repository integrity.
+
+## Testing
+Then run `npm test`.
